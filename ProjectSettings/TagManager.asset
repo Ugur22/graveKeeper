@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Through
+  - crate
+  - platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Obstacle
+  - platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1611635347
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Trees
+    uniqueID: 1676312251
+    locked: 0
+  - name: Hills
+    uniqueID: 1123913521
+    locked: 0
+  - name: platform
+    uniqueID: 1764612351
+    locked: 0
+  - name: Player
+    uniqueID: 2646222551
+    locked: 0
